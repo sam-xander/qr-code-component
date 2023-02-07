@@ -2,6 +2,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Outfit", sans-serif;
+  font-size: 15px;
 }
 body {
   display: flex;
@@ -12,11 +13,10 @@ body {
   background-color: hsl(212, 45%, 89%);
   letter-spacing: -0.01em;
   padding: 20px;
-  font-size: 15px;
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 20px;
 }
 
 .qr-card {
